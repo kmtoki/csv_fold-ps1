@@ -1,0 +1,6 @@
+Date        IO    Price     Bank           Place              Detail
+2023_01_01  Out   1000      Master         Amazon             Kindle
+2023_01_10  Out   500       Master         GooglePlay         App_課金
+2023_01_20  Out   20000     VISA           ヤフオク           フシギダネ
+2023_01_30  In    20000     VISA           ヤフオク           フシギダネ_返品
+2023_01_31  In    10000000  日銀           お勤め先           給料
